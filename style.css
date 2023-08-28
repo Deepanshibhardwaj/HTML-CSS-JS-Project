@@ -132,6 +132,9 @@ body{
     display: none;
     align-items: center;
 }
+#close{
+    display: none;
+}
 
 
 #hero{
@@ -550,11 +553,21 @@ footer .copyright{
     }
 
     #close{
+        display: initial;
         position: absolute;
         top: 30px;
         left: 30px;
         color: #222;
         font-size:24px ;
+    }
+    #lg-bag{
+        display: none;
+    }
+    #hero{
+        height: 70vh;
+        padding: 0 80px;
+        background-position: top 30% right 30%;
+
     }
     
 }
