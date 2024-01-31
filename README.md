@@ -1,2 +1,2 @@
 # Ecommerce website
-Full Responsive Ecommerce website.
+Fully Responsive Ecommerce website.
